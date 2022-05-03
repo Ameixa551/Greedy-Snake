@@ -1,0 +1,2 @@
+D:\C++ projects\greedy_snake\Debug\greedy_snake.exe
+D:\C++ projects\greedy_snake\Debug\greedy_snake.pdb

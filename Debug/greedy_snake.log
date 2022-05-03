@@ -1,0 +1,8 @@
+﻿  createMap.cpp
+D:\C++ projects\greedy_snake\snake.h(18,2): warning C4091: “static ”: 没有声明变量时忽略“food”的左侧
+  snake.cpp
+D:\C++ projects\greedy_snake\snake.h(18,2): warning C4091: “static ”: 没有声明变量时忽略“food”的左侧
+  源.cpp
+D:\C++ projects\greedy_snake\snake.h(18,2): warning C4091: “static ”: 没有声明变量时忽略“food”的左侧
+  正在生成代码...
+  greedy_snake.vcxproj -> D:\C++ projects\greedy_snake\Debug\greedy_snake.exe
